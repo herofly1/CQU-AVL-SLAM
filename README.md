@@ -6,5 +6,5 @@ It will provide valuable references for researchers in related fields. Once our 
 
 
 **2025-02-21 updated**​  
-We are pleased to announce that our paper, "An In-Depth Examination of SLAM Methods: Challenges, Advancements, and Applications in Complex Scenes for Autonomous Driving", has been accepted by ​**IEEE Transactions on Intelligent Transportation Systems (T-ITS)**​ on February 21, 2025.
+We are pleased to announce that our paper, "An In-Depth Examination of SLAM Methods: Challenges, Advancements, and Applications in Complex Scenes for Autonomous Driving", has been accepted by ​**IEEE Transactions on Intelligent Transportation Systems** (T-ITS) on February 21, 2025.
 
